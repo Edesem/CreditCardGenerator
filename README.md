@@ -1,0 +1,1 @@
+ decided to go on a tangent on the cs50 course and adapted the credit card validator to create a valid credit card generator, so yeah although its very basic and only can generate AMEX, MASTERCARD and VISA. It has a bug where the card numbers will have usually three zeros after the inital card type identifier, I don't know how to use rand() to fully fill out these numbers.
