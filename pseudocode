@@ -1,0 +1,7 @@
+Prompt for which credit card is wanted: AMEX, VISA, MASTERCARD
+
+Follows rules of the specific card type, then generate a number within the condition then check if that number is valid, 
+        if yes print that number and write it a txt files and move on
+ 
+        if no print invalid number to seperate txt file and move on
+
